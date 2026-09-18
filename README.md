@@ -1,6 +1,6 @@
-# Chat Barbara
+# ChatBotIA
 
-Bem-vindo ao repositório do **Chat-Barbara**! Este é um projeto de Chatbot desenvolvido em Python, com uma interface gráfica moderna e integração direta com Inteligência Artificial e buscas na internet.
+Bem-vindo ao repositório do CHATBOTIA! Este é um projeto de Chatbot desenvolvido em Python, com uma interface gráfica moderna e integração direta com Inteligência Artificial e buscas na internet.
 
 ## Funcionalidades
 
